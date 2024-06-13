@@ -134,7 +134,7 @@
     <param name="filter_heading_source" value="1" type="int" />
 
     <!-- (GX5 and previous,-45 models only) Dynamics Mode 1 = Portable (default), 2 = Automotive, 3 = Airborne (<2Gs), 4 = Airborne High G (<4Gs) -->
-    <param name="filter_dynamics_mode" value="1" type="int" />>
+    <param name="filter_dynamics_mode" value="1" type="int" />
 
     <!-- ZUPT control -->
     <param name="filter_velocity_zupt_topic" value="/moving_vel" type="str" />
